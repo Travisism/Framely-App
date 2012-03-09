@@ -36,5 +36,5 @@
     </iphone>
     <android xmlns:android="http://schemas.android.com/apk/res/android"/>
     <modules/>
-    <property name="ti.facebook.appid">174432269280290</property>
+    <property name="ti.facebook.appid">YOUR_FACEBOOK_ID</property>
 </ti:app>
