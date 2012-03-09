@@ -1,5 +1,14 @@
 An app for taking pictures and uploading them to Facebook broken into frames to match the pre-timeline Facebook design.
 
+*ASCII Example*
+ _____   ___   ___   ___   ___
+|     | |   | |   | |   | |   |
+|     | |___| |___| |___| |___|
+|     |
+|     |
+|     |
+|_____|
+
 This app was built to test the water with Appcelerator, and will no longer work with the Facebook Timeline design.
 
 ================
